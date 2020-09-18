@@ -11,4 +11,5 @@ create new branch feature-2
 =======
 create branch feature1
 >>>>>>> feature1
-create dev 
+create dev
+fix bug 
